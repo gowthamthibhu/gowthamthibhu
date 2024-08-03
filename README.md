@@ -47,8 +47,3 @@
   </ul>
 </div>
 
-<style>
-  div { font-family: Arial, sans-serif; }
-  h1, h2 { color: #4CAF50; }
-  p { font-size: 1.2em; }
-</style>
