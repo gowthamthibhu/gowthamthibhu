@@ -1,6 +1,6 @@
 <!-- README.md -->
 <div align="center">
-  <h1>👋 Hi, I'm [Your Name]!</h1>
+  <h1>👋 Hi, I'm Gowtham thibhu T!</h1>
   <p>
     <em>Passionate about developing mobile applications, web applications, and machine learning models.</em>
   </p>
