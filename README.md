@@ -59,8 +59,3 @@
   </div>
 </div>
 
-<style>
-  div { font-family: Arial, sans-serif; }
-  h1, h2, h3 { color: #4CAF50; }
-  p { font-size: 1.1em; }
-</style>
