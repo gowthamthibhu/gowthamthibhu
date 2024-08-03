@@ -4,7 +4,6 @@
   <p>
     <em>Passionate about developing mobile applications, web applications, and machine learning models.</em>
   </p>
-  <img src="https://th.bing.com/th/id/OIP.Xk7ew-7dhBHF7n5ui4e6aAAAAA?rs=1&pid=ImgDetMain" alt="Gowtham Thibhu T" width="200" style="border-radius: 50%; border: 2px solid #4CAF50;"/>
 </div>
 
 <div align="center">
