@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/Mobile%20Apps-008080?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Apps"/>
     <img src="https://img.shields.io/badge/Web%20Development-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
     <img src="https://img.shields.io/badge/Machine%20Learning-4682B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </p>
 </div>
 
@@ -24,7 +28,7 @@
     <a href="https://www.instagram.com/gowtham__thibhu/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:gowthamthibhu.com" target="_blank">
+    <a href="mailto:gowthamthibhu@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
@@ -54,3 +58,9 @@
     </div>
   </div>
 </div>
+
+<style>
+  div { font-family: Arial, sans-serif; }
+  h1, h2, h3 { color: #4CAF50; }
+  p { font-size: 1.1em; }
+</style>
