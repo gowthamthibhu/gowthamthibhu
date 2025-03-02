@@ -62,7 +62,5 @@ I'm driven by building immersive, intelligent, and interactive digital experienc
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gowthamthibhu&icon=6&color=6" alt="Profile Views" />
-  <br>
   <i>Let's build something amazing together!</i>
 </div>
