@@ -3,7 +3,7 @@
 ![Banner](https://img.shields.io/badge/Bridging%20Hardware%20and%20Software-with%20Innovation-blueviolet?style=for-the-badge)
 
 ## 🚀 About Me
-Hello world! I'm passionate about creating technology that matters, specializing in the exciting intersection of **hardware and software**. My expertise spans:
+Hello! I'm passionate about creating technology that matters, specializing in the exciting intersection of **hardware and software**. My expertise spans:
 
 - 🔌 **Embedded Systems** development
 - 🥽 **Augmented Reality** applications
