@@ -1,6 +1,6 @@
-# 💫 About Me:
-Passionate about developing mobile applications, web applications, and machine learning models.
+## 🚀 About Me  
 
+Hi there! 👋 I'm a tech enthusiast passionate about **Embedded Systems, Augmented Reality (AR), Web Applications, and Machine Learning**. I love building innovative solutions that bridge the gap between hardware and software, making digital experiences more interactive, intelligent, and immersive.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-thibhu-b77b99248) 
